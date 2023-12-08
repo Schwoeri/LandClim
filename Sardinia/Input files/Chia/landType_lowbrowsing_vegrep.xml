@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LandTypeParametersFile>
+ <LandTypeParameter>
+    	<Id>1</Id>
+    	<Name>empty</Name>
+    	<MinShadeYears>30</MinShadeYears>
+	<MeanFireReturnInterval>3000</MeanFireReturnInterval>
+    	<FireIgnitionCoefficient>0.0002</FireIgnitionCoefficient>
+	<FireProbabilityCoefficient>20</FireProbabilityCoefficient>
+    	<LastWindthrowDisturbance>400</LastWindthrowDisturbance>
+    	<LastFireDisturbance>400</LastFireDisturbance>
+    	<BrowsingIntensity>0</BrowsingIntensity>
+    	<PotentialSaplingDensity>0.5</PotentialSaplingDensity>    	
+    	<DefaultEstablishmentCoefficient>0.9</DefaultEstablishmentCoefficient>
+	<SpeciesEstablishmentCoefficients>
+		<SpeciesEstablishmentCoefficient>
+				<Name>ericarbo</Name>
+				<EstablishmentCoefficient>0.9</EstablishmentCoefficient>
+				<VegetativePropagules>true</VegetativePropagules>
+       		</SpeciesEstablishmentCoefficient>
+		<SpeciesEstablishmentCoefficient>
+				<Name>ericscop</Name>
+				<EstablishmentCoefficient>0.9</EstablishmentCoefficient>
+				<VegetativePropagules>true</VegetativePropagules>
+       		</SpeciesEstablishmentCoefficient>
+    	</SpeciesEstablishmentCoefficients>
+    	<DefaultVegetativePropagules>false</DefaultVegetativePropagules>
+    	<MaxBiomassDensity>1000</MaxBiomassDensity>
+</LandTypeParameter>   
+</LandTypeParametersFile>
