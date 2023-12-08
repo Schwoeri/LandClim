@@ -1,0 +1,18 @@
+LandClim runs Baratz
+
+BRZ_033: low fire, low browsing, max fire size, precip from Trace21, species set v3.4, 8900 y
+BRZ_035: high fire, low browsing, max fire size, precip from Trace21, species set v3.4, from 8.9-7.9 ka BP
+BRZ_040: low fire, low browsing, max fire size, ssp126 climate, species set v3.4, 2010-2500
+BRZ_041: low fire, low browsing, max fire size, ssp370 climate, species set v3.4, 2010-2500
+BRZ_042: high fire, low browsing, max fire size, ssp126 climate, species set v3.4, 2010-2500
+BRZ_043: high fire, low browsing, max fire size, ssp370 climate, species set v3.4, 2010-2500
+BRZ_044: low fire, low browsing, max fire size, ssp585 climate, species set v3.4, 2010-2500
+BRZ_045: high fire, low browsing, max fire size, ssp585 climate, species set v3.4, 2010-2500
+BRZ_046: low fire, low browsing, max fire size, precip from Trace21, species set v3.4, from 4.2-1.2 ka BP, correct climate
+BRZ_047: moderate fire, low browsing, max fire size, precip from Trace21, species set v3.4, from 1.2-0.15 ka BP, correct climate
+BRZ_048: high fire, low browsing, max fire size, precip from Trace21, species set v3.4, from 0.15-0 ka BP, correct climate
+BRZ_049: moderate fire (prob.exp.=2.3, prob.PMin=0.13), low browsing, max fire size, precip from Trace21, species set v3.4, from 6.9-3.6 ka BP, correct climate 
+BRZ_050: low fire, low browsing, max fire size, precip from Trace21, species set v3.4, from 3.6-1.2 ka BP, correct climate
+BRZ_051: low fire, low browsing, max fire size, precip from Trace21, species set v3.4, from 4.0-1.2 ka BP, correct climate
+BRZ_052: frequent small fires, low browsing, max fire size, precip from Trace21, species set v3.4, 8900 y
+BRZ_053: Infrequent large fires, low browsing, max fire size, precip from Trace21, species set v3.4, 8900 y
