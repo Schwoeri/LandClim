@@ -1,0 +1,18 @@
+LandClim runs SaCurcurica
+
+SaCu_039: low fire, low browsing, fire size limit 10%, ssp126 climate, species set v3.4, run from 2010-2500
+SaCu_040: low fire, low browsing, fire size limit 10%, ssp370 climate, species set v3.4, run from 2010-2500
+SaCu_041: high fire, low browsing, fire size limit 10%, ssp126 climate, species set v3.4, run from 2010-2500
+SaCu_042: high fire, low browsing, fire size limit 10%, ssp370 climate, species set v3.4, run from 2010-2500
+SaCu_043: low fire, low browsing, fire size limit 10%, ssp585 climate, species set v3.4, run from 2010-2500
+SaCu_044: high fire, low browsing, fire size limit 10%, ssp585 climate, species set v3.4, run from 2010-2500
+SaCu_045: moderate fire, low browsing, fire size limit 10%, precip from Trace21, species set v3.4, run from 5.3-2.75 ka BP
+SaCu_046: low fire, low browsing, fire size limit 10%, precip from Trace21, species set v3.4, run from 2.75–0 ka BP
+SaCu_047: low fire, low browsing, fire size limit 10%, new Olbia temp, precip Trace 21, species set v3.4, run from 8900–0
+SaCu_048: low fire, low browsing, fire size limit 10%, new Olbia temp, precip Trace 21, species set v3.6, run from 8900–0
+SaCu_049: high fire, low browsing, fire size limit 10%, new Olbia temp, precip Trace 21, species set v3.6, run from 8.9–6 ka BP
+SaCu_050: high fire, low browsing, fire size limit 10%, new Olbia temp, precip Trace 21, species set v3.4, run from 8.9–6 ka BP
+SaCu_051: moderate fire, low browsing, fire size limit 10%, precip from Trace21, species set v3.4, run from 6-2.1 ka BP
+SaCu_052: low fire, low browsing, fire size limit 10%, new Olbia temp, precip Trace 21, species set v3.4, run from 2100–0
+SaCu_053: frequent small fires, low browsing, fire size limit, precip from Trace21, species set v3.4, run for 8900 years
+SaCu_054: infrequent large fires, low browsing, fire size limit, precip from Trace21, species set v3.4, run for 8900 years
