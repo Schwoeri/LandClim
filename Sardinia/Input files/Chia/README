@@ -1,0 +1,18 @@
+LandClim log Chia
+
+CHIA_021: low fire, low browsing, max fire size limited to 10% of the landscape, ssp126 climate, run from 2010-2500, species set v3.4
+CHIA_022: low fire, low browsing, max fire size limited to 10% of the landscape, ssp370 climate, run from 2010-2500, species set v3.4
+CHIA_023: high fire, low browsing, max fire size limited to 10% of the landscape, ssp126 climate, run from 2010-2500, species set v3.4
+CHIA_024: high fire, low browsing, max fire size limited to 10% of the landscape, ssp370 climate, run from 2010-2500, species set v3.4
+CHIA_025: low fire, low browsing, max fire size limited to 10% of the landscape, ssp585 climate, run from 2010-2500, species set v3.4
+CHIA_026: high fire, low browsing, max fire size limited to 10% of the landscape, ssp585 climate, run from 2010-2500, species set v3.4
+CHIA_027: high fire, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run from 8.9-6.2 ka BP, species set v3.4
+CHIA_028: moderate fire, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run from 6.2-4.2 ka BP, species set v3.4
+CHIA_029: moderate fire, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run from 3-1.6 ka BP, species set v3.4
+CHIA_030: low fire, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run from 7–6.6 ka BP, species set v3.4, with correct climate
+CHIA_031: high fire, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run from 6.6-6.2 ka BP, species set v3.4
+CHIA_032: low fire, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run from 3–2.1 ka BP, species set v3.4, with correct climate
+CHIA_033: high fire, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run from 2.1-1.7 ka BP, species set v3.4
+CHIA_034: low fire, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run from 1-7-0 ka BP, species set v3.4, with correct climate
+CHIA_035: frequent small fires, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run for 8900 years, species set v3.4
+CHIA_036: infrequent large fires, low browsing, max fire size limited to 10% of the landscape, precipitation from Trace 21, run for 8900 years, species set v3.4
